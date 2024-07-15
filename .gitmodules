@@ -1,0 +1,3 @@
+[submodule "teste-front"]
+	path = teste-front
+	url = https://github.com/IzaiasBirth/teste-front.git
